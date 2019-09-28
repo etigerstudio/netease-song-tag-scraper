@@ -1,0 +1,9 @@
+{
+  "name": "netease-song-tag-scraper",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-id3": "^0.1.11",
+    "request": "^2.88.0"
+  }
+}
